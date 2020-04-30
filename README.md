@@ -12,7 +12,7 @@ Coursework done in **Multi-variate Statistical Analysis**
 
 - [pr4: Discriminant analysis (two groups)](https://github.com/Hc1023/Statistics-in-R/tree/master/pr4)
 
-- [pr5: Discriminant analysis ($k$ groups)](https://github.com/Hc1023/Statistics-in-R/tree/master/pr5)
+- [pr5: Discriminant analysis (k groups)](https://github.com/Hc1023/Statistics-in-R/tree/master/pr5)
 
 - [pr6: Cluster analysis and principal component analysis](https://github.com/Hc1023/Statistics-in-R/tree/master/pr6)
 
