@@ -14,7 +14,7 @@ Coursework done in **Multi-variate Statistical Analysis**
 
 - [pr5: Discriminant analysis (k groups)](https://github.com/Hc1023/Statistics-in-R/tree/master/pr5) 判别分析（k组）
 
-- [pr6: Cluster analysis and principal component analysis] (https://github.com/Hc1023/Statistics-in-R/tree/master/pr6) 聚类分析和主成分分析
+- [pr6: Cluster analysis and principal component analysis](https://github.com/Hc1023/Statistics-in-R/tree/master/pr6) 聚类分析和主成分分析
 
   https://mp.weixin.qq.com/s/twhQtHmq8LkA2vu93jgJyg
 
